@@ -1,2 +1,2 @@
 # Invotech
-# Currently on planning phase
+# planning phase
