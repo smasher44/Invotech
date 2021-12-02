@@ -1,3 +1,3 @@
 # Invotech
-# Recently added major changes
+# Recently added minor changes
 
